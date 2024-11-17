@@ -34,14 +34,14 @@ Este projeto implementa um compilador que traduz programas escritos em PascalLit
 
 ## Estrutura do Projeto
 .
-├── main.py # Ponto de entrada do compilador
-├── lexer.py # Analisador léxico
-├── parser.py # Analisador sintático e gerador de código
-├── token_types.py # Definição de tipos de tokens
-├── symbol_table.py # Implementação da tabela de símbolos
-├── semantic_analyzer.py # Análise semântica
-├── code_generator.py # Geração de código MEPA
-└── test_compiler.py # Suite de testes
+├── main.py                # Ponto de entrada do compilador
+├── lexer.py               # Analisador léxico
+├── parser.py              # Analisador sintático e gerador de código
+├── token_types.py         # Definição de tipos de tokens
+├── symbol_table.py        # Implementação da tabela de símbolos
+├── semantic_analyzer.py   # Análise semântica
+├── code_generator.py      # Geração de código MEPA
+└── test_compiler.py       # Conjunto de testes
 
 ## Como Executar
 
